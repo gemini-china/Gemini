@@ -25,7 +25,7 @@
 | 平台 | 支持模型 | 特色功能 | 访问地址 |
 |------|----------|----------|----------|
 | [XsimpleChat](https://xsimplechat.com) | Gemini 2.5 Pro、GPT-5、Claude 4 Sonnet、DeepSeek 等 20+ 模型 | AI PPT、一键知识库、AI 翻译、联网搜索 | [xsimplechat.com](https://xsimplechat.com) |
-| [蓝鲸 AI](https://ai.lanjingai.org) | Gemini 2.5 Pro、GPT-5、Grok-4、GPT-4o 等 | 极简高效、支持 Midjourney AI 绘画 | [chat.lanjingai.org](https://chat.lanjingai.org) |
+| [蓝鲸 AI](https://ai.lanjingai.org) | Gemini 2.5 Pro、GPT-5、Grok-4、GPT-4o 等 | 极简高效、支持 Midjourney AI 绘画 | [ai.lanjingai.org](https://ai.lanjingai.org) |
 | [GPT中文版](https://chatgpt-chinese.com) | Gemini、Claude、GPT、DeepSeek 等 | 简洁易用，多模型免费试用 | [chatgpt-chinese.com](https://chatgpt-chinese.com) |
 | [GPT中文版](https://gemini-chinese.com) | Gemini、Claude、GPT、DeepSeek、Grok、Midjourney 等 | 简洁易用，多模型免费试用 | [gemini-chinese.com](https://gemini-chinese.com) |
 
